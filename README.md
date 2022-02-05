@@ -4,7 +4,7 @@
 A list of smart contracts coded in solidity 
 
 
-# Original Owner of this project is -> HashLips 👄
+# Original Owner of this project is -> HashLips
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
