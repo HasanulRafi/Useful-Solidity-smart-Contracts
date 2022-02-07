@@ -1,7 +1,7 @@
 
 
 # solidity_smart_contracts
-A list of smart contracts coded in solidity 
+A list of smart contracts coded in solidity.
 
 
 # Original Owner of this project is -> HashLips
